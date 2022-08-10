@@ -1,0 +1,30 @@
+body
+{
+color: white;
+}
+#footer
+{
+    background-color: beige;
+    text-align: center;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    color: darkgoldenrod;
+}
+h1
+{
+color: white;
+}
+#bg
+{
+    background-color: navy;
+}
+#title
+{
+    font-family: 'Alumni Sans Inline One', cursive;
+}
+#ti
+{
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+}
